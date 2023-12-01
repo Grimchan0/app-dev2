@@ -1,3 +1,3 @@
 # app-dev2
 my first repository
-### my 1st github Experience
+### My 1st github Experience
